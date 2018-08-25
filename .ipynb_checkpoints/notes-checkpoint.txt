@@ -1,3 +1,5 @@
 Relationships to plot:
 rain_mean_annual to cropland_cover or tree_canopy_cover
 temp_mean_annual to cropland_cover or tree_canopy_cover
+
+Add agr output, to look at relationship with land cover, land area, crop cover
